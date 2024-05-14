@@ -12,3 +12,5 @@ Working with a Python script that uses the `pyautogui` library to automate searc
 Please note that the `pyautogui` library controls the mouse and keyboard, so be careful when running scripts that use it. You might lose control of your mouse and keyboard during the execution of the script.
 
 You can change the number of searches according to your need from line 77 as in the given code it is 32, and change the number of seconds from line 73 and 82 as the difference of seconds you need in each search as in the given code it is 6.
+Run the code, then it will show starting.... in the output terminal,
+then you have to open the edge, and it will automatically start searching
